@@ -1,0 +1,8 @@
+To create :
+
+dotnet new console -n SumProject
+cd SumProject
+
+To Run:
+dotnet run
+
