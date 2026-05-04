@@ -72,19 +72,6 @@ Build a Singleton system to download and manage images efficiently.
 
 ---
 
-## 📂 Project Structure
-
-Assets/
-├── Scripts/
-│   ├── Algorithms/
-│   ├── UI/
-│   ├── Networking/
-├── Scenes/
-├── Prefabs/
-├── UI/
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository
